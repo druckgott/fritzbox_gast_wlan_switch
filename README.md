@@ -22,7 +22,7 @@ Dieses Projekt ermöglicht es dir, das **Gast-WLAN deiner FRITZ!Box über einen 
 
 - ✅ ESP32-C3 Super Mini Modul
 - ✅ E-Paper-Display (GDEY0154D67, 200x200 Pixel)
-- ✅ Taster (verbunden mit GPIO9)
+- ✅ Taster (verbunden mit GPIO3)
 - ✅ Zugangsdaten zu deiner FRITZ!Box (Benutzer, Passwort, IP)
 
 ---
